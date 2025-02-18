@@ -26,6 +26,17 @@ Podemos utiizar os () para quebrar ou organizar uma operação.
 
 3. Para converter uma `string` para `int` ou `float`, podemos utilizar os métodos `int()` ou `float()`.
 
+# AULA 05
+## ESTRUTURAS DE REPETIÇÃO
+1. for
+=> Você irá utilizar quando de antemão se sabe a quantidade de vezes que a repetição irá acontecer. Normalmente, é utilizado para `iterar` sobre elementos de uma sequência.
+1.1 - range() => Gera uma sequência de números. (inclusivo, exclusivo).
+
+2. while
+=> Será utilizado quando você não sabe ao certo quantas vezes a repetição irá aontecer. Será executado enquanto a condição for verdadeira.
+
+
+
 ## Atalhos no VScode
 ``CTRL + B`` => Oculta ou exibe o explorador.
 ``CTRL + ;`` => Comenta ou descomenta um código.
